@@ -1,7 +1,7 @@
 {
-  "postman": "2.0",
-  "info": {
-    "title": "Simple API overview",
-    "version": "v2"
-  }
+    "postman": "2.0",
+    "info": {
+        "title": "Simple API overview",
+        "version": "v2"
+    }
 }
